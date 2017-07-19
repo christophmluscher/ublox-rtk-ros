@@ -1,0 +1,11 @@
+# cpp files and dirs
+*.o
+bin/
+build/
+
+# config files
+ublox-rtk-ros.config
+ublox-rtk-ros.creator
+ublox-rtk-ros.creator.user
+ublox-rtk-ros.files
+ublox-rtk-ros.includes
